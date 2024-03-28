@@ -1,0 +1,40 @@
+{
+    "apps": [
+        {
+            "name": "TikTok",
+            "category": "Social Media",
+            "downloads": 500000000,
+            "rating": 4.5
+        },
+        {
+            "name": "Facebook",
+            "category": "Social Media",
+            "downloads": 3000000000,
+            "rating": 4.0
+        },
+        {
+            "name": "Instagram",
+            "category": "Social Media",
+            "downloads": 1000000000,
+            "rating": 4.6
+        },
+        {
+            "name": "WhatsApp",
+            "category": "Messaging",
+            "downloads": 6000000000,
+            "rating": 4.7
+        },
+        {
+            "name": "Snapchat",
+            "category": "Social Media",
+            "downloads": 1000000000,
+            "rating": 4.3
+        },
+        {
+            "name": "YouTube",
+            "category": "Entertainment",
+            "downloads": 5000000000,
+            "rating": 4.8
+        }
+    ]
+}
