@@ -12,7 +12,8 @@
 [HW2.json](https://github.com/ethanlin1126/PL/blob/main/app_rankings.json)<br>
 [HW2.分析](https://github.com/ethanlin1126/PL/blob/main/HW2%E5%88%86%E6%9E%90.pdf)
 ### 作業三
-[HW3.ipynb]()<br>
-[HW3.csv]()<br>
-[HW3.json]()<br>
+[HW3.ipynb](https://github.com/ethanlin1126/PL/blob/main/HW3.ipynb)<br>
+[HW3.csv](https://github.com/ethanlin1126/PL/blob/main/ptt_basketball_titles.csv)<br>
+[HW3.json](https://github.com/ethanlin1126/PL/blob/main/CHAT.json)<br>
+[HW3.解說]()
 ## 專題連結區
