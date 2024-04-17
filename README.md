@@ -12,4 +12,7 @@
 [HW2.json](https://github.com/ethanlin1126/PL/blob/main/app_rankings.json)<br>
 [HW2.分析](https://github.com/ethanlin1126/PL/blob/main/HW2%E5%88%86%E6%9E%90.pdf)
 ### 作業三
+[HW3.ipynb]()<br>
+[HW3.csv]()<br>
+[HW3.json]()<br>
 ## 專題連結區
