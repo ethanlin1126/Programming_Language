@@ -15,5 +15,7 @@
 [HW3.ipynb](https://github.com/ethanlin1126/PL/blob/main/HW3.ipynb)<br>
 [HW3.csv](https://github.com/ethanlin1126/PL/blob/main/ptt_basketball_titles.csv)<br>
 [HW3.json](https://github.com/ethanlin1126/PL/blob/main/CHAT.json)<br>
-[HW3.影片解說](https://youtu.be/B-I3FT2x-cQ)
+[HW3.影片解說](https://youtu.be/B-I3FT2x-cQ)<br>
+### 作業四
+[HW4.ipynb](https://github.com/ethanlin1126/PL/blob/main/HW4.ipynb)
 ## 專題連結區
