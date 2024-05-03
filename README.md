@@ -26,6 +26,6 @@
 [HW3.json](https://github.com/ethanlin1126/PL/blob/main/CHAT.json)<br>
 [HW3.影片解說](https://youtu.be/B-I3FT2x-cQ)<br>
 ### 作業四
-[HW4.ipynb](https://github.com/ethanlin1126/PL/blob/main/HW4.ipynb)
+[HW4.程式碼](https://github.com/ethanlin1126/PL/blob/main/HW4.ipynb)
 ## 專題連結區
 [提案影片](https://www.youtube.com/watch?v=nXR2OlqxFsM&lc=Ugxiiyl3lDqzZdRWWgR4AaABAg)<br>
