@@ -3,11 +3,11 @@
 姓名：林軒宇<br>
 系級：科技系二年級<br>
 ## 課程筆記區
-### 投影片
-[Week1](https://docs.google.com/presentation/d/1GZH2WWJ26ZGSKPD9iyLMolPltWiFfXsTpqIJ9HpC_eE/edit)<br>
-[Week2](https://docs.google.com/presentation/d/16lvU-QMi15Q3JAER3AhhCX77Sa3S6SqNICWoBs-pRwk/edit#slide=id.p)<br>
-[Week3](https://docs.google.com/presentation/d/1iV_w40yKxwrvLWBOWKW4dSiwG5t7aTezy4m_CTHtoYU/edit#slide=id.p)<br>
-[Week4](https://docs.google.com/presentation/d/14j1B-DCmOElqZq0huwNHjUyM1Ff4xrhWxAferCqT6D4/edit)<br>
+### 課程投影片
+[Week1_課程介紹](https://docs.google.com/presentation/d/1GZH2WWJ26ZGSKPD9iyLMolPltWiFfXsTpqIJ9HpC_eE/edit)<br>
+[Week2_Python基礎](https://docs.google.com/presentation/d/16lvU-QMi15Q3JAER3AhhCX77Sa3S6SqNICWoBs-pRwk/edit#slide=id.p)<br>
+[Week3_Python基礎](https://docs.google.com/presentation/d/1iV_w40yKxwrvLWBOWKW4dSiwG5t7aTezy4m_CTHtoYU/edit#slide=id.p)<br>
+[Week4_Python基礎](https://docs.google.com/presentation/d/14j1B-DCmOElqZq0huwNHjUyM1Ff4xrhWxAferCqT6D4/edit)<br>
 [Week5_Python資料正則化](https://docs.google.com/presentation/d/1AaUwVjFolBZOxHOwWbGQ3Ux0AYN20zFo4D3GALdAYPM/edit#slide=id.g208c735537b_0_0)<br>
 [Week6_網路爬蟲](https://docs.google.com/presentation/d/1RpX9Pcdwax1mz6oIcnJc6ugle3zrKXyO816t4hRk1JE/edit#slide=id.g208c735537b_0_0)<br>
 [Week8_資料視覺化](https://docs.google.com/presentation/d/1sUZ_B2s1oN4dmi-v2Jfx8OAosXofI77aEuEMyD3LQNg/edit#slide=id.g208c735537b_0_0)<br>
