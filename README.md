@@ -1,6 +1,5 @@
 # [2024 Spring] Programming Language<br>
-Lecturer：Assoc. Prof. Yun-Cheng Tsai<br>
-Name：Hsuan-Yu Lin<br>
+Lecturer：Yun-Cheng Tsai<br>
 ## Assignments
 ### HW1
 [HW1 Code](https://github.com/ethanlin1126/PL/blob/main/HW1.ipynb)<br>
